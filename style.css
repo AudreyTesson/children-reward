@@ -1,0 +1,28 @@
+body {
+    background-color: #FFF5EE; /* couleur beige clair */
+    font-family: Arial, sans-serif;
+}
+
+#carte-nom {
+    font-size: 24px;
+    color: #FF6347; /* couleur rouge corail */
+    text-align: center;
+    margin-top: 50px;
+}
+
+#carte-image {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px grey;
+}
+
+button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    scale: 2;
+}
