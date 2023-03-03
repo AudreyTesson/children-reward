@@ -3,11 +3,18 @@ body {
     font-family: Arial, sans-serif;
 }
 
-#carte-nom {
-    font-size: 24px;
-    color: #FF6347;
+#carte-nom-majuscules {
+    font-size: 2em;
+    color: darkmagenta;
     text-align: center;
     margin-top: 50px;
+}
+
+#carte-nom-minuscules {
+    font-size: 2em;
+    color: darkslateblue;
+    text-align: center;
+    margin-top: 30px;
 }
 
 #carte-image {

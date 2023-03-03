@@ -1,25 +1,26 @@
 function piocherCarte() {
   const paquet = [
-    "ACTIVITE",
-    "ARGENT",
-    "CUISINER",
-    "DESSIN",
-    "GYM",
-    "LIVRE EN PLUS",
-    "ORDINATEUR",
-    "REPAS TV",
-    "REPAS SPECIAL",
-    "SUCRERIES",
-    "TELE",
-    "TELEPHONE",
-    "TRESOR",
-    "VELO",
-    "YOUTUBE",
+    "activité",
+    "argent",
+    "cuisiner",
+    "dessin",
+    "gym",
+    "livre en plus",
+    "ordinateur",
+    "repas télé",
+    "repas spécial",
+    "sucreries",
+    "télé",
+    "téléphone",
+    "trésor",
+    "vélo",
+    "youtube",
   ];
 
   let carte = paquet[Math.floor(Math.random() * paquet.length)];
   let cheminImage = "images/" + carte + ".png";
 
-  document.getElementById("carte-nom").innerHTML = carte;
+  document.getElementById("carte-nom-majuscules").innerHTML = carte.toUpperCase();
+  document.getElementById("carte-nom-minuscules").innerHTML = carte.toLowerCase();
   document.getElementById("carte-image").src = cheminImage;
 }
