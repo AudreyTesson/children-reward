@@ -1,11 +1,11 @@
 body {
-    background-color: #FFF5EE; /* couleur beige clair */
+    background-color: #FFF5EE;
     font-family: Arial, sans-serif;
 }
 
 #carte-nom {
     font-size: 24px;
-    color: #FF6347; /* couleur rouge corail */
+    color: #FF6347;
     text-align: center;
     margin-top: 50px;
 }
