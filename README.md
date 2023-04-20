@@ -1,10 +1,13 @@
 # childrens-reward
 
-## random rewards for children, coded to running on my smarthone
+## It's a very simple application I've coded for my 2 children when their cards where damaged.
+## The only goal : click to pick a card, and get the reward.
 
-## extra simple code, simple to use for my little children, just one click
+### random rewards for children, coded to running on my smarthone
 
-## extra features coming soon... (and final translation)
+### extra simple code, simple to use for my little children, just one click
+
+### extra features coming soon... (and final translation)
 
 - Ajouter une fonctionnalité pour ajouter ou supprimer des cartes du paquet.
 
