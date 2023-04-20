@@ -2,6 +2,7 @@
 
 ## It's a very simple application I've coded for my 2 children when their rewards cards where damaged.
 ## The only goal : click to pick a card, and get the reward.
+## There are lowercase and uppercase, so they can learn to read at the same time.
 
 ## images from https://blogueapart.com/, a website with free resources.
 
